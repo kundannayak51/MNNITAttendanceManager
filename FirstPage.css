@@ -1,0 +1,91 @@
+#div1
+{
+    width : 500px;
+    margin : 0 auto; /*for center alignment*/
+    padding : 5px;
+}
+#avatar
+{
+    width : 100px;
+    text-align : center;
+}
+.firstform
+{
+    width : 500px;
+    margin : 0 auto;
+}
+.email1
+{
+    width : 450px;
+    margin : 0 auto;
+    padding : 5px;
+}
+.pass1
+{
+    width : 450px;
+    margin : 0 auto;
+    padding : 5px;
+}
+.name
+{
+    width : 450px;
+    margin : 0 auto;
+    padding : 5px;
+}
+.login1
+{
+    margin-top : 10px;
+    background-color : #6a5acd;
+    color : white;
+    font-size : 15px;
+    font-weight : bold;
+    padding : 8px;
+    width : 463px; 
+    margin-bottom : 5px;
+}
+.register1
+{
+    text-align : center;
+    margin-top : 5px;
+    background-color : #27ae60;
+    color : white;
+    padding : 8px;
+    font-size : 15px;
+    font-weight : bold;
+    width : 463px;
+}
+.branch1
+{
+    padding :4px;
+}
+.signup1
+{
+    margin-top : 5px;
+    background-color : #27ae60;
+    color : white;
+    padding : 8px;
+    font-size : 15px;
+    font-weight : bold;
+    width : 463px;
+}
+.back1
+{
+    margin-top : 5px;
+    background-color : #ff0019;
+    color : white;
+    padding : 8px;
+    font-size : 15px;
+    font-weight : bold;
+    width : 140px;
+}
+#id1
+{
+     margin-top : 5px;
+    background-color : #6a5acd;
+    color : white;
+    padding : 8px;
+    font-size : 15px;
+    font-weight : bold;
+    width : 140px;
+}
+}

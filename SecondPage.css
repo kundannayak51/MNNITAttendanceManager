@@ -1,0 +1,44 @@
+.c1
+{
+    background-color : #ABB2B9;
+    text-align : center;
+    padding-top : 30px;
+    padding-bottom : 30px;
+}
+.C2
+{
+    margin-top : 10px;
+    background-color : #ff0019;
+    color : white;
+    padding : 8px;
+    font-size : 15px;
+    font-weight : bold;
+    width : 140px;
+    margin-right : 156px;
+}
+.c4
+{
+    margin-left : 45px;
+    background-color : #00FA9A;
+    color : white;
+    padding : 8px;
+    font-weight : bold;
+    font-size : 15px;
+}
+.c5
+{
+    margin-top : 0px;
+    background-color : #E6E6FA;
+    text-align : center;
+    padding-top : 10px;
+    padding-bottom : 10px;
+}
+.c6
+{
+    margin-top : 0px;
+    background-color : #E6E6FA;
+    text-align : center;
+    padding-top : 10px;
+    padding-bottom : 10px;
+    color : red;
+}
